@@ -1,0 +1,17 @@
+<resources>
+    <string name="title_activity_mediaplayer">media player Activity</string>
+    <string name="app_name">MiSports Moments</string>
+    <string name="btnWebBack">Back</string>
+    <string name="txtHeadSportsCalls">Great Sports Calls</string>
+    <string name="imgMiracle">Image of 1980 Miracle On Ice Hockey Moment</string>
+    <string name="imgFrazierGoesDown">Image of Joe Frazier being knocked down by Ali</string>
+    <string name="btnMiraclePlay">Hear Miracle On Ice</string>
+    <string name="btnFrazierDown">Hear Down Goes Frazier!</string>
+    <string name="imgDrummond">Image of Andre Drummond</string>
+    <string name="imgWebber">Image of Chris Webber</string>
+    <string name="imgBarrySanders">Image of Barry Sanders</string>
+    <string name="imgCabrera">Image of Miguel Cabrera</string>
+    <string name="imgCalvinJohnson">Image of Calvin Johnson</string>
+    <string name="imgRedwings">Image of Rewings Goal Score</string>
+    <string name="imgImageHolger">Image Placeholder</string>
+</resources>

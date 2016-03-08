@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gvLayout"
+        android:stretchMode="columnWidth"
+        android:numColumns="2"
+        android:choiceMode="singleChoice"
+        android:horizontalSpacing="5dp"
+        android:verticalSpacing="5dp"
+        android:columnWidth="240dp"
+         />
+
+    <ImageView
+        android:id="@+id/imgImageHolder"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/imgImageHolger"
+        />
+</LinearLayout>
